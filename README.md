@@ -1,2 +1,2 @@
 # medicine-artificial-intelligence
-Vision transformer, CNN
+Vision transformer
